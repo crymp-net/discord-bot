@@ -8,6 +8,9 @@ This repository contains source code of original CryMP Discord Bot.
 # install dependencies
 npm install
 
+# set DISCORD_TOKEN env variable
+export DISCORD_TOKEN=xxx
+
 # run the app
 node index.js
 ```
