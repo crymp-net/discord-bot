@@ -1,3 +1,3 @@
 const App = require("./bot.js")
 
-const instance = new App(undefined, process.env.DISCORD_TOKEN)
+const instance = new App(null, process.env.DISCORD_TOKEN)
